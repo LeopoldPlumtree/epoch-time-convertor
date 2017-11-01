@@ -1,4 +1,4 @@
-#Generic function to convert Date and Hour to epoch time
+# Generic function to convert Date and Hour to epoch time
 
 from datetime import datetime
 
