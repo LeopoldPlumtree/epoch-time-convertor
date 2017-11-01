@@ -1,3 +1,5 @@
+#Generic function to convert Date and Hour to epoch time
+
 from datetime import datetime
 
 sdate = "2017-09-01"
